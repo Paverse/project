@@ -1,0 +1,1 @@
+slownik = {"itd." : "i tak dalej", "nwm" : "nie wiem", "wgl" : "w ogólne", "pt." : "pod tytułem", "dr" : "doktor"}
